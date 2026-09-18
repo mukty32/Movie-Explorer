@@ -4,7 +4,7 @@ A responsive web application to browse, search, and explore movies and TV shows 
 
 ## 🚀 Important Links
 
-- **Live Site:** https://movie-explorer-xxx.vercel.app
+- **Live Site:** https://movie-explorer-6xzd03f3i-mukty32.vercel.app/
 - **GitHub Profile:** https://github.com/mukty32
 - **GitHub Repo:** https://github.com/mukty32/Movie-Explorer
 
